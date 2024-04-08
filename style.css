@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+*{
+    padding: 10px;
+    margin: 0px; 
+}
+body{
+    background: url(pisaysmc.jpg);
+}
+.buttons button{
+    margin-top: 1em;
+    padding: 7px;
+}
+.fieldset1 legend{
+    color: rgb(255, 253, 253);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    font-size: xx-large;
+}
+.fieldset1 #signSheet, label{
+    font-family: "Josefin Sans", sans-serif;
+}
+.fieldset1 label{
+    color: rgb(255, 253, 253);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
+.fieldset2 legend{
+    color: rgb(255, 253, 253);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    font-size: xx-large;
+}
+.fieldset2 #userInformation{
+    font-family: "Josefin Sans", sans-serif;
+    color: rgb(255, 253, 253);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+}
